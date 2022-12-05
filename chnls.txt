@@ -1,0 +1,59 @@
+# Version: 2^M
+01: igmp://239.225.236.106:50000;rtpskip=yes?chan_name=DW English HD
+02: igmp://239.225.236.102:50000;rtpskip=yes?chan_name=DW Deutsch Plus
+03: igmp://239.225.236.103:50000;rtpskip=yes?chan_name=DW Espanol
+04: igmp://239.225.236.104:50000;rtpskip=yes?chan_name=DW Deutsch
+05: igmp://239.225.236.105:50000;rtpskip=yes?chan_name=DW Arabia
+06: igmp://239.195.0.3:50000;rtpskip=yes?chan_name=STREAM-B1
+07: igmp://239.195.0.5:50000;rtpskip=yes?chan_name=REUTERS WNE SD
+08: igmp://239.195.0.6:50000;rtpskip=yes?chan_name=RTV 1 SD
+09: igmp://239.195.0.7:50000;rtpskip=yes?chan_name=EBU 1 SD
+10: igmp://239.195.0.8:50000;rtpskip=yes?chan_name=AP DIRECT SD
+11: igmp://239.195.0.9:50000;rtpskip=yes?chan_name=AP FEEDS SD
+12: igmp://239.195.0.10:50000;rtpskip=yes?chan_name=Konferenzraum102
+13: igmp://239.195.0.11:50000;rtpskip=yes?chan_name=Hauskanal 1 HD
+14: igmp://239.195.0.12:50000;rtpskip=yes?chan_name=EBU 2 SD
+15: igmp://239.195.0.13:50000;rtpskip=yes?chan_name=MV MCR Remote
+16: igmp://239.225.236.101:50000;rtpskip=yes?chan_name=Eurosport 1 Deutschland
+17: igmp://239.225.236.107:50000;rtpskip=yes?chan_name=EBU 3 SD
+18: igmp://239.225.236.108:50000;rtpskip=yes?chan_name=Al Jazeera English HD
+19: igmp://239.225.236.109:50000;rtpskip=yes?chan_name=CGTN
+20: igmp://239.225.236.110:50000;rtpskip=yes?chan_name=CNN HD
+21: igmp://239.225.236.111:50000;rtpskip=yes?chan_name=France 24
+22: igmp://239.225.236.112:50000;rtpskip=yes?chan_name=BBC World News
+23: igmp://239.225.236.113:50000;rtpskip=yes?chan_name=TVE International
+24: igmp://239.225.236.114:50000;rtpskip=yes?chan_name=RT HD
+25: igmp://239.225.236.115:50000;rtpskip=yes?chan_name=Bloomberg
+26: igmp://239.225.236.116:50000;rtpskip=yes?chan_name=WELT
+27: igmp://239.225.236.117:50000;rtpskip=yes?chan_name=NTV
+28: igmp://239.225.236.118:50000;rtpskip=yes?chan_name=PrpSieben
+29: igmp://239.225.236.119:50000;rtpskip=yes?chan_name=SAT 1
+30: igmp://239.225.236.120:50000;rtpskip=yes?chan_name=RTL Bayern
+31: igmp://239.225.236.121:50000;rtpskip=yes?chan_name=Das Erste
+32: igmp://239.225.236.122:50000;rtpskip=yes?chan_name=ZDF
+33: igmp://239.225.236.123:50000;rtpskip=yes?chan_name=Phoenix
+34: igmp://239.225.236.124:50000;rtpskip=yes?chan_name=Arte
+35: igmp://239.225.236.125:50000;rtpskip=yes?chan_name=3sat
+36: igmp://239.225.236.126:50000;rtpskip=yes?chan_name=Tagesschau24
+37: igmp://239.225.236.127:50000;rtpskip=yes?chan_name=ZDFinfo
+38: igmp://239.225.236.128:50000;rtpskip=yes?chan_name=EBSHD
+39: igmp://239.225.236.129:50000;rtpskip=yes?chan_name=STUDIO 1 SD
+40: igmp://239.225.236.130:50000;rtpskip=yes?chan_name=STUDIO 2 SD
+41: igmp://239.225.236.131:50000;rtpskip=yes?chan_name=STUDIO 3 SD
+42: igmp://239.225.236.132:50000;rtpskip=yes?chan_name=SPORT 1
+43: igmp://239.225.236.133:50000;rtpskip=yes?chan_name=STUDIO 5 HD
+44: igmp://239.225.236.134:50000;rtpskip=yes?chan_name=AL Rasheed TV
+45: igmp://239.225.236.135:50000;rtpskip=yes?chan_name=PAW HAV
+46: igmp://239.225.236.136:50000;rtpskip=yes?chan_name=Echorouk TV News
+47: igmp://239.225.236.137:50000;rtpskip=yes?chan_name=AFP 1
+48: igmp://239.225.236.138:50000;rtpskip=yes?chan_name=Crowdtangle
+49: igmp://239.225.236.139:50000;rtpskip=yes?chan_name=AFP 2
+50: igmp://239.225.236.140:50000;rtpskip=yes?chan_name=AFP 3
+51: igmp://239.225.236.141:50000;rtpskip=yes?chan_name=AFP 4
+52: igmp://239.225.236.142:50000;rtpskip=yes?chan_name=AP 1
+53: igmp://239.225.236.143:50000;rtpskip=yes?chan_name=AP 2
+54: igmp://239.225.236.144:50000;rtpskip=yes?chan_name=AP 3
+55: igmp://239.225.236.145:50000;rtpskip=yes?chan_name=AP 4
+56: igmp://239.225.236.151:50000;rtpskip=yes?chan_name=MV Agencies HD
+57: igmp://239.225.236.152:50000;rtpskip=yes?chan_name=MV News
+
